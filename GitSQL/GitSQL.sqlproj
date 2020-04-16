@@ -59,5 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="CUstomer.sql" />
+    <Build Include="PhaseDetails.sql" />
   </ItemGroup>
 </Project>
