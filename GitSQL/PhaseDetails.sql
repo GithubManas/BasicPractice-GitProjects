@@ -1,5 +1,6 @@
 ﻿create schema [config]
 go
+--comment provided
 
 CREATE TABLE [config].[ControlPhasedetails](
 	[Phaseid] [int] NOT NULL,
